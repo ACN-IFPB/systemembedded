@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "blink",
-    "project_version":    "d2f4e3d-dirty",
+    "project_version":    "49a2911-dirty",
     "project_path":       "C:/Users/Adriell/Documents/GitHub/systemembedded/testes/blink/blink",
     "idf_path":           "C:/Users/Adriell/esp/v5.4.1/esp-idf",
     "build_dir":          "C:/Users/Adriell/Documents/GitHub/systemembedded/testes/blink/blink/build",
