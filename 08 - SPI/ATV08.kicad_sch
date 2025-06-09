@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Adriel Cassimiro")
-		(date "2025-05-28")
+		(date "2025-06-09")
 		(rev "V 0.0.01")
-		(company "SystemEmbebbed ATV06 PWM LED & Display i2c")
+		(company "SystemEmbebbed ATV08 SPI")
 	)
 	(lib_symbols
 		(symbol "Device:Buzzer"
