@@ -33,7 +33,7 @@ void app_main(void) {
     lcd_send_string("Boas-vindas!");
     vTaskDelay(pdMS_TO_TICKS(2000));
     lcd_send_cmd(0xC0); // Linha 2
-    lcd_send_string("ESP32-C6 + LCD");
+    lcd_send_string("ESP32-S3 + LCD");
 }
 
 // Inicializa o driver I2C
